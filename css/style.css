@@ -1,0 +1,63 @@
+header.my-header-bg {
+    background-color: rgb(44, 62, 80);
+    height: 50px;
+    color: white;
+}
+
+.header-left,
+.header-right {
+    height: 50px;
+    border: 1px solid white;
+}
+
+section#jumbotron {
+    background-color: rgb(26, 188, 156);
+    height: 450px;
+    margin-bottom: 2rem;
+}
+
+.my-row-jumbo {
+    height: 100%;
+}
+
+.port-row {
+    height: 70px;
+    background-color: aquamarine;
+}
+
+div.my-cards {
+    justify-content: center;
+    gap: 0 1rem;
+}
+
+div.card-height {
+    height: 15rem;
+}
+
+section#portfolio {
+    margin-bottom: 2rem;
+}
+
+div#first-card {
+    background-color: rgb(186, 75, 99);
+}
+
+div#second-card {
+    background-color: rgb(30, 164, 182);
+}
+
+div#third-card {
+    background-color: black;
+}
+
+div#fourth-card {
+    background-color: rgb(28, 131, 193);
+}
+
+div#fifth-card {
+    background-color: rgb(14, 56, 181);
+}
+
+div#sixth-card {
+    background-color: rgb(204, 178, 163);
+}

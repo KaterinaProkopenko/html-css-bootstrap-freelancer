@@ -1,6 +1,11 @@
 header {
     background-color: rgb(44, 62, 80);
-    height: 50px;
+    height: 60px;
+}
+
+div.my-line {
+    width: 13%;
+    height: 3px;
 }
 
 div.card-height {
@@ -20,6 +25,10 @@ div.my-dates {
 section#jumbotron {
     background-color: rgb(26, 188, 156);
     height: 450px;
+}
+
+img#avatar {
+    width: 200px;
 }
 
 div#first-card {
